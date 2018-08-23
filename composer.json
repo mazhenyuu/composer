@@ -1,0 +1,14 @@
+{
+    "name": "mazhenyuu/composer",
+    "description": "learn composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mazhenyu",
+            "email": "mazhenyu@ctvit.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
